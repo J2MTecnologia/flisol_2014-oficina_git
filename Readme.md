@@ -1,4 +1,4 @@
-# Sobre o Slide Oficina de Git
+# Sobre o slide da oficina de Git
 
 Atualizações de conteúdo serão sempre feitas e escritas neste arquivo
 
